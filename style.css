@@ -1,6 +1,6 @@
 body {
     /* colores */
-    background-color: #f9f7f1;
+    background-color: OldLace;
     color: #404040;
 
     /* texto */
@@ -11,7 +11,7 @@ article {
     /* distribución */
     columns: 3;
     column-gap: 40px;
-    column-rule: 2px outset #444;
+    column-rule: solid #444;
 
     /* texto */
     font-size: 1em;
@@ -47,30 +47,29 @@ p {
     /* texto */
     text-align: justify;
     hyphens: auto;
-    hyphenate-character: "\u2605";
 }
 
 blockquote {
     /* texto */
-    font-size: 1.8em;
     line-height: 1.2em;
+    font-size: 1.8em;
 
     /* distribución */
-    padding: 0px;
     margin: 0px;
     margin-left: 5px;
+    padding: 0px;
 }
 
 .time {
     /* texto */
-    text-align: center;
-    font-weight: 700;
-    text-transform: uppercase;
     font-size: 1.6em;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
 
     /* distribución */
-    border-top: 3px solid #333;
-    border-bottom: 3px solid #333;
+    border-top: solid #444;
+    border-bottom: solid #444;
 
     padding-top: 12px;
     padding-bottom: 12px;
