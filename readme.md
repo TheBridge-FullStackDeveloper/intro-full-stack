@@ -4,6 +4,12 @@
 
 ![news image](news.png)
 
+Recursos:
+- [HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML | w3shools](https://www.w3schools.com/html/)
+- [CSS | MDN](https://developer.mozilla.org/es/docs/Web/CSS)
+- [CSS | w3schools](https://www.w3schools.com/css/)
+
 ## HTML ##
 
 ### Elementos títulos o encabezados ###
@@ -209,13 +215,13 @@ Establece el número de columnas de un elemento
 
 ```CSS
 selector {
-    columns: 3;
+    column-count:3;
 }
 ```
 
 valores que usaremos: `3`
 
-[MDN](https://developer.mozilla.org/es/docs/Web/CSS/columns)
+[MDN](https://developer.mozilla.org/es/docs/Web/CSS/column-count)
 
 ---
 
@@ -231,7 +237,7 @@ selector {
 
 valores que usaremos: `40px`
 
-[MDN](https://developer.mozilla.org/es/docs/Web/CSS/column-gap)
+[w3schools](https://www.w3schools.com/cssref/css3_pr_column-gap.asp)
 
 ---
 
@@ -247,7 +253,7 @@ selector {
 
 valores que usaremos: `medium solid #444`
 
-[MDN](https://developer.mozilla.org/es/docs/Web/CSS/column-rule)
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/column-rule)
 
 ---
 
